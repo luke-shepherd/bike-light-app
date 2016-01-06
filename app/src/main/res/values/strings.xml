@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Keypad App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_red_blink_screen">RedBlinkScreen</string>
+    <string name="redblink">RED BLINK</string>
+    <string name="red_on">RED ON</string>
+    <string name="light_on">LIGHT ON</string>
+    <string name="light_off">LIGHT OFF</string>
+</resources>
